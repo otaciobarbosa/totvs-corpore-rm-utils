@@ -1,0 +1,25 @@
+{
+  "name": "totvs-corpore-rm-utils",
+  "version": "1.0.0",
+  "description": "Utilitários para TOTVS Corpore RM",
+  "main": "index.js",
+  "author": "Otácio Barbosa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:otaciobarbosa/totvs-corpore-rm-utils.git"
+  },
+  "keywords": [
+    "utility",
+    "functions",
+    "formatting",
+    "string",
+    "currency",
+    "npm",
+    "module",
+    "totvs", 
+    "corpore", 
+    "rm", 
+    "utils"
+  ]
+}
