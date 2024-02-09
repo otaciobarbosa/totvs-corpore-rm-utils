@@ -45,6 +45,8 @@ function importMovement(data = []) {
     console.log("A importação do movimento foi concluída com sucesso!");
 }
 
+export default importMovement;
+
 /*
 // Exemplo de dados para serem usados na função importMovement
 const dataObject = [
