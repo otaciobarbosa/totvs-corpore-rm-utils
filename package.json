@@ -1,6 +1,6 @@
 {
   "name": "totvs-corpore-rm-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilitários para TOTVS Corpore RM",
   "main": "index.js",
   "author": "Otácio Barbosa",
@@ -17,9 +17,9 @@
     "currency",
     "npm",
     "module",
-    "totvs", 
-    "corpore", 
-    "rm", 
+    "totvs",
+    "corpore",
+    "rm",
     "utils"
   ]
 }
