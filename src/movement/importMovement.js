@@ -46,15 +46,3 @@ function importMovement(data = []) {
 }
 
 export default importMovement;
-
-/*
-// Exemplo de dados para serem usados na função importMovement
-const dataObject = [
-    { CHAPA: "001", EVENTO: "Evento1", VALOR: 100.50 },
-    { CHAPA: "002", EVENTO: "Evento2", VALOR: 150.75 },
-    // Adicione mais linhas conforme necessário
-  ];
-  
-  // Chama a função importMovement com o objeto como argumento
-  importMovement(dataObject);
-*/
