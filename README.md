@@ -12,7 +12,7 @@ npm install totvs-corpore-rm-utils
 
 ## Utilização
 
-```
+```javascript
 import importMovement from 'totvs-corpore-rm-utils';
 
 // Exemplo de dados para serem usados na função importMovement
@@ -28,7 +28,7 @@ importMovement(dataObject);
 
 ## Módulos Exportados
 
-- `importMovement`: Função para realizar a importação do movimento no Totvs Corpore RM.
+- **importMovement**: Função para realizar a importação do movimento no Totvs Corpore RM.
 
 ## Contribuição
 
@@ -41,6 +41,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 ## Autor
 
 Otácio Barbosa
+
 ---
 
 **Gostaria de agradecer? Considere apoiar o desenvolvedor:**
