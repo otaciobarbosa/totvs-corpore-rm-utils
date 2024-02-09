@@ -1,3 +1,3 @@
-import importMovement from './src/movement/importMovement';
+const importMovement = require('./src/movement/importMovement');
 
-export default importMovement;
+module.exports = importMovement;
